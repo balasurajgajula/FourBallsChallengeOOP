@@ -1,8 +1,6 @@
 import processing.core.PApplet;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class FourBallsChallengeOOP extends PApplet {
 
